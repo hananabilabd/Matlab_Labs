@@ -1,0 +1,17 @@
+function [ m ,index ] = findMaxFunction(x)
+%FINDMAXFUNCTION Summary of this function goes here
+%   Detailed explanation goes here
+y=size(x);
+ma=0; 
+in=0;
+ma=x(1);
+
+for i = 1: y(2)
+   if  x(i) > ma 
+       ma =x(i);
+       in=i;
+   end
+
+end
+m = ma;
+index =in;
