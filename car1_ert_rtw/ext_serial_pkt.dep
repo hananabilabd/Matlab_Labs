@@ -1,0 +1,17 @@
+ext_serial_pkt.o: \
+ C:/PROGRA~1/MATLAB/R2016a/rtw/c/src/ext_mode/serial/ext_serial_pkt.c \
+ F:/ITI/Matlab_Labs/car1_ert_rtw/rtwtypes.h \
+ C:/PROGRA~1/MATLAB/R2016a/rtw/c/src/ext_mode/common/ext_types.h \
+ C:/PROGRA~1/MATLAB/R2016a/rtw/c/src/ext_mode/common/ext_share.h \
+ C:/PROGRA~1/MATLAB/R2016a/rtw/c/src/ext_mode/serial/ext_serial_port.h \
+ C:/PROGRA~1/MATLAB/R2016a/rtw/c/src/ext_mode/serial/ext_serial_pkt.h
+
+F:/ITI/Matlab_Labs/car1_ert_rtw/rtwtypes.h:
+
+C:/PROGRA~1/MATLAB/R2016a/rtw/c/src/ext_mode/common/ext_types.h:
+
+C:/PROGRA~1/MATLAB/R2016a/rtw/c/src/ext_mode/common/ext_share.h:
+
+C:/PROGRA~1/MATLAB/R2016a/rtw/c/src/ext_mode/serial/ext_serial_port.h:
+
+C:/PROGRA~1/MATLAB/R2016a/rtw/c/src/ext_mode/serial/ext_serial_pkt.h:

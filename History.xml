@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<history>
+<session>
+<command time_stamp="167e774d25d">%-- 26-12-2018 12:20 AM --%</command>
+<command execution_time="24" repeat="2">bitwise</command>
+</session>
+<session>
+<command time_stamp="167e78593cc">%-- 26-12-2018 12:39 AM --%</command>
+<command execution_time="3370">help userpath</command>
+<command execution_time="271">userpath 'F:\ITI\Matlab_Labs'</command>
+</session>
+<session>
+<command time_stamp="167e78cd010">%-- 26-12-2018 12:47 AM --%</command>
+<command execution_time="10" repeat="2">assignmentAdd(2,3,4,1)</command>
+</session>
+<session>
+<command time_stamp="167ea2e8af4">%-- 26-12-2018 1:02 PM --%</command>
+<command execution_time="20" repeat="5">assignmentAdd(int32(2),int32(3),int32(4),int32(1))</command>
+</session>
+</history>

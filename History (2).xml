@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<history>
+<session>
+<command time_stamp="16804ca3e35">%-- 31-12-2018 5:03 PM --%</command>
+</session>
+<session>
+<command time_stamp="16804ecd9a2">%-- 31-12-2018 5:40 PM --%</command>
+</session>
+<session>
+<command time_stamp="16805ca9384">%-- 31-12-2018 9:43 PM --%</command>
+<command execution_time="269">userpath 'F:\ITI\Matlab_Labs'</command>
+</session>
+<session>
+<command time_stamp="1682db3c218">%-- 8-01-2019 3:43 PM --%</command>
+<command execution_time="157">userpath 'F:\ITI\Matlab_Labs'</command>
+</session>
+<session>
+<command time_stamp="1682dc2b210">%-- 8-01-2019 3:59 PM --%</command>
+<command execution_time="60">userpath('F:\ITI\Matlab_Labs')</command>
+</session>
+<session>
+<command time_stamp="1682dc57d6c">%-- 8-01-2019 4:02 PM --%</command>
+<command execution_time="47">addpath('F:\ITI\Matlab_Labs');</command>
+<command error="true" execution_time="191">userpath('/folder/to/start');</command>
+<command execution_time="66">userpath('F:/ITI/Matlab_Labs');</command>
+<command error="true" execution_time="15">userpath('F:');</command>
+<command execution_time="62">userpath('F://');</command>
+<command error="true" execution_time="207">F:</command>
+<command execution_time="63">cd F:</command>
+<command error="true" execution_time="16">userpath('C');</command>
+<command error="true" execution_time="16">userpath('C:');</command>
+<command execution_time="79">userpath 'F:\ITI\Matlab_Labs'</command>
+<command execution_time="47">userpath('F:\ITI\Matlab_Labs')</command>
+<command error="true" execution_time="15">userpath('C:')</command>
+<command execution_time="62">userpath('C:\Users\Hanna Nabil')</command>
+<command error="true" execution_time="16">userpath('/F:/ITI/Matlab_Labs');</command>
+<command execution_time="31" repeat="2">userpath('F:/ITI/Matlab_Labs');</command>
+</session>
+<session>
+<command time_stamp="1682dcf8945">%-- 8-01-2019 4:13 PM --%</command>
+</session>
+<session>
+<command time_stamp="16831758b63">%-- 9-01-2019 9:13 AM --%</command>
+</session>
+<session>
+<command time_stamp="16831852492">%-- 9-01-2019 9:30 AM --%</command>
+</session>
+<session>
+<command time_stamp="16831879b2c">%-- 9-01-2019 9:33 AM --%</command>
+</session>
+<session>
+<command time_stamp="168318b620a">%-- 9-01-2019 9:37 AM --%</command>
+</session>
+<session>
+<command time_stamp="168318cc8dc">%-- 9-01-2019 9:38 AM --%</command>
+</session>
+<session>
+<command time_stamp="16831928595">%-- 9-01-2019 9:45 AM --%</command>
+</session>
+<session>
+<command time_stamp="168319870d2">%-- 9-01-2019 9:51 AM --%</command>
+</session>
+<session>
+<command time_stamp="16831a17c04">%-- 9-01-2019 10:01 AM --%</command>
+</session>
+<session>
+<command time_stamp="168320fe33e">%-- 9-01-2019 12:02 PM --%</command>
+</session>
+</history>

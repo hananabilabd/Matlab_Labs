@@ -1,0 +1,26 @@
+ext_svr_serial_transport.o: \
+ C:/PROGRA~1/MATLAB/R2016a/rtw/c/src/ext_mode/serial/ext_svr_serial_transport.c \
+ C:/PROGRA~1/MATLAB/R2016a/rtw/c/src/ext_mode/common/updown_util.h \
+ F:/ITI/Matlab_Labs/car1_ert_rtw/rtwtypes.h \
+ C:/PROGRA~1/MATLAB/R2016a/rtw/c/src/ext_mode/common/ext_types.h \
+ C:/PROGRA~1/MATLAB/R2016a/rtw/c/src/ext_mode/common/ext_share.h \
+ C:/PROGRA~1/MATLAB/R2016a/simulink/include/rtw_extmode.h \
+ C:/PROGRA~1/MATLAB/R2016a/rtw/c/src/ext_mode/serial/ext_serial_port.h \
+ C:/PROGRA~1/MATLAB/R2016a/rtw/c/src/ext_mode/serial/ext_serial_pkt.h \
+ C:/PROGRA~1/MATLAB/R2016a/rtw/c/src/ext_mode/serial/ext_serial_utils.c
+
+C:/PROGRA~1/MATLAB/R2016a/rtw/c/src/ext_mode/common/updown_util.h:
+
+F:/ITI/Matlab_Labs/car1_ert_rtw/rtwtypes.h:
+
+C:/PROGRA~1/MATLAB/R2016a/rtw/c/src/ext_mode/common/ext_types.h:
+
+C:/PROGRA~1/MATLAB/R2016a/rtw/c/src/ext_mode/common/ext_share.h:
+
+C:/PROGRA~1/MATLAB/R2016a/simulink/include/rtw_extmode.h:
+
+C:/PROGRA~1/MATLAB/R2016a/rtw/c/src/ext_mode/serial/ext_serial_port.h:
+
+C:/PROGRA~1/MATLAB/R2016a/rtw/c/src/ext_mode/serial/ext_serial_pkt.h:
+
+C:/PROGRA~1/MATLAB/R2016a/rtw/c/src/ext_mode/serial/ext_serial_utils.c:
