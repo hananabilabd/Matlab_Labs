@@ -3,9 +3,9 @@
  *
  * Code generated for Simulink model 'car1'.
  *
- * Model version                  : 1.1
+ * Model version                  : 1.2
  * Simulink Coder version         : 8.10 (R2016a) 10-Feb-2016
- * C/C++ source code generated on : Sat Jan 12 21:58:13 2019
+ * C/C++ source code generated on : Tue Jan 15 13:13:29 2019
  *
  * Target selection: ert.tlc
  * Embedded hardware selection: Atmel->AVR
@@ -78,11 +78,11 @@ struct P_car1_T_ {
   uint32_T DigitalOutput_pinNumber;    /* Mask Parameter: DigitalOutput_pinNumber
                                         * Referenced by: '<S1>/Digital Output'
                                         */
-  uint32_T DigitalOutput_pinNum_be11dsugft;/* Mask Parameter: DigitalOutput_pinNum_be11dsugft
-                                            * Referenced by: '<S2>/Digital Output'
-                                            */
   uint32_T DigitalOutput_pinNum_er4ywp3lth;/* Mask Parameter: DigitalOutput_pinNum_er4ywp3lth
                                             * Referenced by: '<S3>/Digital Output'
+                                            */
+  uint32_T DigitalOutput_pinNum_be11dsugft;/* Mask Parameter: DigitalOutput_pinNum_be11dsugft
+                                            * Referenced by: '<S2>/Digital Output'
                                             */
   uint32_T DigitalOutput_pinNum_jyui1bkhpj;/* Mask Parameter: DigitalOutput_pinNum_jyui1bkhpj
                                             * Referenced by: '<S4>/Digital Output'
@@ -90,7 +90,7 @@ struct P_car1_T_ {
   real_T Constant_Value;               /* Expression: 0
                                         * Referenced by: '<Root>/Constant'
                                         */
-  real_T Constant1_Value;              /* Expression: 5
+  real_T Constant1_Value;              /* Expression: 0
                                         * Referenced by: '<Root>/Constant1'
                                         */
   real_T Constant2_Value;              /* Expression: 0

@@ -35,11 +35,11 @@
 	  section.data(1).logicalSrcIdx = 0;
 	  section.data(1).dtTransOffset = 0;
 	
-	  ;% car1_P.DigitalOutput_pinNum_be11dsugft
+	  ;% car1_P.DigitalOutput_pinNum_er4ywp3lth
 	  section.data(2).logicalSrcIdx = 1;
 	  section.data(2).dtTransOffset = 1;
 	
-	  ;% car1_P.DigitalOutput_pinNum_er4ywp3lth
+	  ;% car1_P.DigitalOutput_pinNum_be11dsugft
 	  section.data(3).logicalSrcIdx = 2;
 	  section.data(3).dtTransOffset = 2;
 	
@@ -180,8 +180,8 @@
   ;%
 
 
-  targMap.checksum0 = 1999558496;
-  targMap.checksum1 = 1805905134;
-  targMap.checksum2 = 1924969449;
-  targMap.checksum3 = 80482101;
+  targMap.checksum0 = 3505142166;
+  targMap.checksum1 = 306692362;
+  targMap.checksum2 = 3840983179;
+  targMap.checksum3 = 1795369875;
 

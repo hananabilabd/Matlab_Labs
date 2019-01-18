@@ -1,7 +1,7 @@
 ext_svr.o: C:/PROGRA~1/MATLAB/R2016a/rtw/c/src/ext_mode/common/ext_svr.c \
- F:/ITI/Matlab_Labs/car1_ert_rtw/rtwtypes.h \
- F:/ITI/Matlab_Labs/car1_ert_rtw/multiword_types.h \
- F:/ITI/Matlab_Labs/car1_ert_rtw/rtwtypes.h \
+ F:/ITI/Matlab_Labs/Car_Project/car1_ert_rtw/rtwtypes.h \
+ F:/ITI/Matlab_Labs/Car_Project/car1_ert_rtw/multiword_types.h \
+ F:/ITI/Matlab_Labs/Car_Project/car1_ert_rtw/rtwtypes.h \
  C:/PROGRA~1/MATLAB/R2016a/simulink/include/rtw_extmode.h \
  C:/PROGRA~1/MATLAB/R2016a/rtw/c/src/ext_mode/common/ext_types.h \
  C:/PROGRA~1/MATLAB/R2016a/rtw/c/src/ext_mode/common/ext_share.h \
@@ -12,11 +12,11 @@ ext_svr.o: C:/PROGRA~1/MATLAB/R2016a/rtw/c/src/ext_mode/common/ext_svr.c \
  C:/PROGRA~1/MATLAB/R2016a/rtw/c/src/ext_mode/common/updown_util.h \
  C:/PROGRA~1/MATLAB/R2016a/rtw/c/src/dt_info.h
 
-F:/ITI/Matlab_Labs/car1_ert_rtw/rtwtypes.h:
+F:/ITI/Matlab_Labs/Car_Project/car1_ert_rtw/rtwtypes.h:
 
-F:/ITI/Matlab_Labs/car1_ert_rtw/multiword_types.h:
+F:/ITI/Matlab_Labs/Car_Project/car1_ert_rtw/multiword_types.h:
 
-F:/ITI/Matlab_Labs/car1_ert_rtw/rtwtypes.h:
+F:/ITI/Matlab_Labs/Car_Project/car1_ert_rtw/rtwtypes.h:
 
 C:/PROGRA~1/MATLAB/R2016a/simulink/include/rtw_extmode.h:
 

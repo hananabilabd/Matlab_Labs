@@ -2,7 +2,7 @@ ert_main.o: ert_main.c car1.h rtwtypes.h \
  C:/PROGRA~1/MATLAB/R2016a/simulink/include/rtw_extmode.h \
  C:/PROGRA~1/MATLAB/R2016a/simulink/include/sysran_types.h \
  C:/PROGRA~1/MATLAB/R2016a/simulink/include/rtw_continuous.h \
- F:/ITI/Matlab_Labs/car1_ert_rtw/rtwtypes.h \
+ F:/ITI/Matlab_Labs/Car_Project/car1_ert_rtw/rtwtypes.h \
  C:/PROGRA~1/MATLAB/R2016a/simulink/include/rtw_solver.h \
  C:/PROGRA~1/MATLAB/R2016a/rtw/c/src/dt_info.h \
  C:/PROGRA~1/MATLAB/R2016a/rtw/c/src/ext_mode/common/ext_work.h \
@@ -31,7 +31,7 @@ C:/PROGRA~1/MATLAB/R2016a/simulink/include/sysran_types.h:
 
 C:/PROGRA~1/MATLAB/R2016a/simulink/include/rtw_continuous.h:
 
-F:/ITI/Matlab_Labs/car1_ert_rtw/rtwtypes.h:
+F:/ITI/Matlab_Labs/Car_Project/car1_ert_rtw/rtwtypes.h:
 
 C:/PROGRA~1/MATLAB/R2016a/simulink/include/rtw_solver.h:
 

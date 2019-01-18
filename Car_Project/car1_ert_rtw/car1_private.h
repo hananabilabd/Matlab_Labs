@@ -3,9 +3,9 @@
  *
  * Code generated for Simulink model 'car1'.
  *
- * Model version                  : 1.1
+ * Model version                  : 1.2
  * Simulink Coder version         : 8.10 (R2016a) 10-Feb-2016
- * C/C++ source code generated on : Sat Jan 12 21:58:13 2019
+ * C/C++ source code generated on : Tue Jan 15 13:13:29 2019
  *
  * Target selection: ert.tlc
  * Embedded hardware selection: Atmel->AVR

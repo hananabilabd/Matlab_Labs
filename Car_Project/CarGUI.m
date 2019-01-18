@@ -76,10 +76,10 @@ varargout{1} = handles.output;
 % --- Executes on button press in pushbutton1.
 %Forward Button
 function pushbutton1_Callback(hObject, eventdata, handles)
-set_param('car1/Constant','Value','0');
-set_param('car1/Constant1','Value','5');
-set_param('car1/Constant2','Value','0');
-set_param('car1/Constant3','Value','5');
+set_param('car2/Pulse Generator','Amplitude','0');
+set_param('car2/Pulse Generator1','Amplitude','5');
+set_param('car2/Pulse Generator2','Amplitude','0');
+set_param('car2/Pulse Generator3','Amplitude','5');
 % hObject    handle to pushbutton1 (see GCBO)
 % eventdata  reserved - to be defined in a future version of MATLAB
 % handles    structure with handles and user data (see GUIDATA)
@@ -88,10 +88,10 @@ set_param('car1/Constant3','Value','5');
 % --- Executes on button press in pushbutton2.
 %Backward Button
 function pushbutton2_Callback(hObject, eventdata, handles)
-set_param('car1/Constant','Value','5');
-set_param('car1/Constant1','Value','0');
-set_param('car1/Constant2','Value','5');
-set_param('car1/Constant3','Value','0');
+set_param('car2/Pulse Generator','Amplitude','5');
+set_param('car2/Pulse Generator1','Amplitude','0');
+set_param('car2/Pulse Generator2','Amplitude','5');
+set_param('car2/Pulse Generator3','Amplitude','0');
 % hObject    handle to pushbutton2 (see GCBO)
 % eventdata  reserved - to be defined in a future version of MATLAB
 % handles    structure with handles and user data (see GUIDATA)
@@ -100,10 +100,10 @@ set_param('car1/Constant3','Value','0');
 % --- Executes on button press in pushbutton3.
 %Right Button
 function pushbutton3_Callback(hObject, eventdata, handles)
-set_param('car1/Constant','Value','5');
-set_param('car1/Constant1','Value','0');
-set_param('car1/Constant2','Value','0');
-set_param('car1/Constant3','Value','5');
+set_param('car2/Pulse Generator','Amplitude','0');
+set_param('car2/Pulse Generator1','Amplitude','5');
+set_param('car2/Pulse Generator2','Amplitude','0');
+set_param('car2/Pulse Generator3','Amplitude','0');
 % hObject    handle to pushbutton3 (see GCBO)
 % eventdata  reserved - to be defined in a future version of MATLAB
 % handles    structure with handles and user data (see GUIDATA)
@@ -112,10 +112,10 @@ set_param('car1/Constant3','Value','5');
 % --- Executes on button press in pushbutton4.
 %Left Button
 function pushbutton4_Callback(hObject, eventdata, handles)
-set_param('car1/Constant','Value','0');
-set_param('car1/Constant1','Value','5');
-set_param('car1/Constant2','Value','0');
-set_param('car1/Constant3','Value','0');
+set_param('car2/Pulse Generator','Amplitude','0');
+set_param('car2/Pulse Generator1','Amplitude','0');
+set_param('car2/Pulse Generator2','Amplitude','0');
+set_param('car2/Pulse Generator3','Amplitude','5');
 % hObject    handle to pushbutton4 (see GCBO)
 % eventdata  reserved - to be defined in a future version of MATLAB
 % handles    structure with handles and user data (see GUIDATA)
@@ -124,10 +124,10 @@ set_param('car1/Constant3','Value','0');
 % --- Executes on button press in pushbutton5.
 %stop button
 function pushbutton5_Callback(hObject, eventdata, handles)
-set_param('car1/Constant','Value','0');
-set_param('car1/Constant1','Value','0');
-set_param('car1/Constant2','Value','0');
-set_param('car1/Constant3','Value','0');
+set_param('car2/Pulse Generator','Amplitude','0');
+set_param('car2/Pulse Generator1','Amplitude','0');
+set_param('car2/Pulse Generator2','Amplitude','0');
+set_param('car2/Pulse Generator3','Amplitude','0');
 % hObject    handle to pushbutton5 (see GCBO)
 % eventdata  reserved - to be defined in a future version of MATLAB
 % handles    structure with handles and user data (see GUIDATA)

@@ -1,0 +1,29 @@
+ext_work.o: \
+ C:/PROGRA~1/MATLAB/R2016a/rtw/c/src/ext_mode/common/ext_work.c \
+ F:/ITI/Matlab_Labs/Car_Project/car2_ert_rtw/rtwtypes.h \
+ C:/PROGRA~1/MATLAB/R2016a/simulink/include/rtw_extmode.h \
+ C:/PROGRA~1/MATLAB/R2016a/rtw/c/src/ext_mode/common/ext_types.h \
+ C:/PROGRA~1/MATLAB/R2016a/rtw/c/src/ext_mode/common/ext_share.h \
+ C:/PROGRA~1/MATLAB/R2016a/rtw/c/src/ext_mode/common/updown.h \
+ C:/PROGRA~1/MATLAB/R2016a/rtw/c/src/ext_mode/common/upsup_public.h \
+ C:/PROGRA~1/MATLAB/R2016a/rtw/c/src/ext_mode/common/ext_svr.h \
+ C:/PROGRA~1/MATLAB/R2016a/rtw/c/src/ext_mode/common/ext_svr_transport.h \
+ C:/PROGRA~1/MATLAB/R2016a/rtw/c/src/ext_mode/common/ext_work.h
+
+F:/ITI/Matlab_Labs/Car_Project/car2_ert_rtw/rtwtypes.h:
+
+C:/PROGRA~1/MATLAB/R2016a/simulink/include/rtw_extmode.h:
+
+C:/PROGRA~1/MATLAB/R2016a/rtw/c/src/ext_mode/common/ext_types.h:
+
+C:/PROGRA~1/MATLAB/R2016a/rtw/c/src/ext_mode/common/ext_share.h:
+
+C:/PROGRA~1/MATLAB/R2016a/rtw/c/src/ext_mode/common/updown.h:
+
+C:/PROGRA~1/MATLAB/R2016a/rtw/c/src/ext_mode/common/upsup_public.h:
+
+C:/PROGRA~1/MATLAB/R2016a/rtw/c/src/ext_mode/common/ext_svr.h:
+
+C:/PROGRA~1/MATLAB/R2016a/rtw/c/src/ext_mode/common/ext_svr_transport.h:
+
+C:/PROGRA~1/MATLAB/R2016a/rtw/c/src/ext_mode/common/ext_work.h:

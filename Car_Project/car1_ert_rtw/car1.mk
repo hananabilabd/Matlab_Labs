@@ -2,7 +2,7 @@
 ## Makefile generated for Simulink model 'car1'. 
 ## 
 ## Makefile     : car1.mk
-## Generated on : Thu Jan 10 14:58:56 2019
+## Generated on : Tue Jan 15 13:13:38 2019
 ## MATLAB Coder version: 3.1 (R2016a)
 ## 
 ## Build Info:
@@ -29,7 +29,7 @@ MATLAB_ROOT               = C:/PROGRA~1/MATLAB/R2016a
 MATLAB_BIN                = C:/PROGRA~1/MATLAB/R2016a/bin
 MATLAB_ARCH_BIN           = C:/PROGRA~1/MATLAB/R2016a/bin/win64
 MASTER_ANCHOR_DIR         = 
-START_DIR                 = F:/ITI/Matlab_Labs
+START_DIR                 = F:/ITI/Matlab_Labs/Car_Project
 ARCH                      = win64
 SOLVER                    = 
 SOLVER_OBJ                = 

@@ -3,9 +3,9 @@
  *
  * Code generated for Simulink model 'car1'.
  *
- * Model version                  : 1.1
+ * Model version                  : 1.2
  * Simulink Coder version         : 8.10 (R2016a) 10-Feb-2016
- * C/C++ source code generated on : Sat Jan 12 21:58:13 2019
+ * C/C++ source code generated on : Tue Jan 15 13:13:29 2019
  *
  * Target selection: ert.tlc
  * Embedded hardware selection: Atmel->AVR
@@ -44,7 +44,7 @@ void car1_step(void)
   /* S-Function (arduinodigitaloutput_sfcn): '<S1>/Digital Output' */
   MW_digitalWrite(car1_P.DigitalOutput_pinNumber, tmp);
 
-  /* DataTypeConversion: '<S2>/Data Type Conversion' incorporates:
+  /* DataTypeConversion: '<S3>/Data Type Conversion' incorporates:
    *  Constant: '<Root>/Constant1'
    */
   if (car1_P.Constant1_Value < 256.0) {
@@ -57,12 +57,12 @@ void car1_step(void)
     tmp = MAX_uint8_T;
   }
 
-  /* End of DataTypeConversion: '<S2>/Data Type Conversion' */
+  /* End of DataTypeConversion: '<S3>/Data Type Conversion' */
 
-  /* S-Function (arduinodigitaloutput_sfcn): '<S2>/Digital Output' */
-  MW_digitalWrite(car1_P.DigitalOutput_pinNum_be11dsugft, tmp);
+  /* S-Function (arduinodigitaloutput_sfcn): '<S3>/Digital Output' */
+  MW_digitalWrite(car1_P.DigitalOutput_pinNum_er4ywp3lth, tmp);
 
-  /* DataTypeConversion: '<S3>/Data Type Conversion' incorporates:
+  /* DataTypeConversion: '<S2>/Data Type Conversion' incorporates:
    *  Constant: '<Root>/Constant2'
    */
   if (car1_P.Constant2_Value < 256.0) {
@@ -75,10 +75,10 @@ void car1_step(void)
     tmp = MAX_uint8_T;
   }
 
-  /* End of DataTypeConversion: '<S3>/Data Type Conversion' */
+  /* End of DataTypeConversion: '<S2>/Data Type Conversion' */
 
-  /* S-Function (arduinodigitaloutput_sfcn): '<S3>/Digital Output' */
-  MW_digitalWrite(car1_P.DigitalOutput_pinNum_er4ywp3lth, tmp);
+  /* S-Function (arduinodigitaloutput_sfcn): '<S2>/Digital Output' */
+  MW_digitalWrite(car1_P.DigitalOutput_pinNum_be11dsugft, tmp);
 
   /* DataTypeConversion: '<S4>/Data Type Conversion' incorporates:
    *  Constant: '<Root>/Constant3'
@@ -140,10 +140,10 @@ void car1_initialize(void)
   car1_M->Timing.stepSize0 = 0.2;
 
   /* External mode info */
-  car1_M->Sizes.checksums[0] = (1999558496U);
-  car1_M->Sizes.checksums[1] = (1805905134U);
-  car1_M->Sizes.checksums[2] = (1924969449U);
-  car1_M->Sizes.checksums[3] = (80482101U);
+  car1_M->Sizes.checksums[0] = (3505142166U);
+  car1_M->Sizes.checksums[1] = (306692362U);
+  car1_M->Sizes.checksums[2] = (3840983179U);
+  car1_M->Sizes.checksums[3] = (1795369875U);
 
   {
     static const sysRanDType rtAlwaysEnabled = SUBSYS_RAN_BC_ENABLE;
@@ -175,11 +175,11 @@ void car1_initialize(void)
   /* Start for S-Function (arduinodigitaloutput_sfcn): '<S1>/Digital Output' */
   MW_pinModeOutput(car1_P.DigitalOutput_pinNumber);
 
-  /* Start for S-Function (arduinodigitaloutput_sfcn): '<S2>/Digital Output' */
-  MW_pinModeOutput(car1_P.DigitalOutput_pinNum_be11dsugft);
-
   /* Start for S-Function (arduinodigitaloutput_sfcn): '<S3>/Digital Output' */
   MW_pinModeOutput(car1_P.DigitalOutput_pinNum_er4ywp3lth);
+
+  /* Start for S-Function (arduinodigitaloutput_sfcn): '<S2>/Digital Output' */
+  MW_pinModeOutput(car1_P.DigitalOutput_pinNum_be11dsugft);
 
   /* Start for S-Function (arduinodigitaloutput_sfcn): '<S4>/Digital Output' */
   MW_pinModeOutput(car1_P.DigitalOutput_pinNum_jyui1bkhpj);
